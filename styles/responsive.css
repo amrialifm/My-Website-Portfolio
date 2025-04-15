@@ -109,6 +109,13 @@
     footer{
         padding: 2rem 0;
     }
+
+    /* Scrolltop */
+    .scrolltop{
+        /* width: 30px; height: 30px; */
+        zoom: 0.85;
+    }
+
 }
 @media screen and (max-width: 640px) {
     /* Titles */
